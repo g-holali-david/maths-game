@@ -1,0 +1,2 @@
+[console_scripts]
+jeu_math = jeu_math.main:main

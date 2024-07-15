@@ -1,0 +1,8 @@
+{
+    "nom_joueur": "k",
+    "nb_questions": 2,
+    "temps_de_reponse": 2,
+    "bg_color": "#2c3e50",
+    "fg_color": "white",
+    "progress_color": "#3498db"
+}

@@ -1,0 +1,8 @@
+{
+    "nom_joueur": "David",
+    "nb_questions": 3,
+    "temps_de_reponse": 20,
+    "bg_color": "#2c3e50",
+    "fg_color": "white",
+    "progress_color": "#3498db"
+}

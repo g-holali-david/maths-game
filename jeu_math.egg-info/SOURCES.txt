@@ -1,0 +1,11 @@
+README.md
+setup.py
+jeu_math/__init__.py
+jeu_math/jeu_de_maths.py
+jeu_math/main.py
+jeu_math.egg-info/PKG-INFO
+jeu_math.egg-info/SOURCES.txt
+jeu_math.egg-info/dependency_links.txt
+jeu_math.egg-info/entry_points.txt
+jeu_math.egg-info/requires.txt
+jeu_math.egg-info/top_level.txt

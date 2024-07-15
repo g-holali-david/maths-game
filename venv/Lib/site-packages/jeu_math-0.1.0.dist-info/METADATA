@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: jeu_math
+Version: 0.1.0
+Summary: Un jeu de questions mathématiques
+Home-page: https://github.com/votrecompte/jeu_math
+Author: Votre Nom
+Author-email: votre.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: Pillow
+
+# Jeu de Questions MathÃ©matiques
+
+Ce projet est une application de jeu de questions mathÃ©matiques dÃ©veloppÃ©e en Python avec Tkinter.
+
+## Installation
+
+Pour installer l'application, exÃ©cutez :
+
+```bash
+pip install .
