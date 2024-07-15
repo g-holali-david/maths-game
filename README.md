@@ -13,7 +13,7 @@ Enregistrement des résultats dans une base de données SQLite.
 
 ## Installation
 
-Pour installer l'application, vous pouvez télécharger l'executable dans le dossier Output et l'installer sur windows (64) 
+Pour installer l'application, vous pouvez télécharger l'executable dans le dossier Output et l'installer sur windows (64).
 Ou exécutez :
 ```bash
 pip install .
